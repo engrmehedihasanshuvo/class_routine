@@ -2,6 +2,8 @@
 
 A modern, responsive web application for displaying and managing M.Sc. class schedules.
 
+## Live URL: https://engrmehedihasanshuvo.github.io/class_routine/
+
 ## Features
 
 - 📅 Weekly class schedule view
